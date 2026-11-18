@@ -1,0 +1,3 @@
+Mi proyecto de git
+
+Este repositorio fue creado con fines educativos...
